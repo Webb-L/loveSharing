@@ -1,0 +1,12 @@
+body {
+  overflow-x: hidden;
+  min-width: 100vw;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+}
+.el-button {
+  border: 1px solid #fff;
+}
