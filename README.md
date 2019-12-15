@@ -174,4 +174,11 @@ Seeded:  AdminAuthSeeder (0.08 seconds)
 Database seeding completed successfully.
 
 ```
-## 完成
+# 完成
+前台：/
+
+后台：/admin
+
+后台超级管理员账号和密码
++ 账号：admin@admin.com
++ 密码：123456

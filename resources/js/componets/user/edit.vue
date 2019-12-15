@@ -76,7 +76,6 @@
                             if (response.url) {
                                 this.form.image = response.url;
                                 this.$parent.message('上传成功！', 'success');
-                                this.$prompt.postMessage("用户操作", "success", "头像上传成功！");
                             } else {
                                 this.$parent.message("返回链接失败，请重试！");
                             }
